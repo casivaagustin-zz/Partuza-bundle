@@ -1,0 +1,9 @@
+Configure shindig to use and partuza's service adapter by changing the following fields in shindig/php/config/container.php (or local.php):
+
+        'person_service' => 'PartuzaService',
+        'activity_service' => 'PartuzaService',
+        'app_data_service' => 'PartuzaService',
+        'extension_class_paths' => '/path/to/partuza/Shindig'
+ 
+ See http://code.google.com/p/partuza/w/list for more info
+ 

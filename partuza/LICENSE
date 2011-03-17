@@ -1,0 +1,18 @@
+The goal of Partuza is to enable gadget developers to develop on their own system or private network,
+and to serve as an example / starting point for websites who want to learn how to use php-shindig
+to become OpenSocial containers.
+
+To make sure this code can serve the later purpose, I'm licensing the code under 3 different Open Source
+licenses, your free to pick the one that fits your project best.
+
+Please do be aware that if you select one of these 3 licenses, you have to abide by it's specific terms!
+
+Licenses availble:
+
+APLv2 : Apache License (v2)
+GPLv2 : Gnu Public License (v2)
+GPLv3 : Gnu Public License (v3)
+
+When in doubt what license suites you best, the default and assumed license is the APLv2 license.
+
+- Chris Chabot <chabotc@google.com>
