@@ -1,8 +1,14 @@
-Partuza Boundle
+Partuza Bundle
 ---------------
 
 This Package has a copy of partuza and shindig2, partuza was modified to
 work with shindig2.
+
+For the original Partuza and Shindig sources plase check
+
+http://code.google.com/p/partuza/
+
+http://shindig.apache.org/
 
 Instalation
 -----------
